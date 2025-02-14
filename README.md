@@ -15,3 +15,5 @@ Este proyecto es una calculadora que usa Python y una biblioteca en C para reali
 2. **Ejecutar el .exe (Modo Producción)**
    a) Entra a la carpeta ``dist/``
    b) Abre ``calculadora.exe``
+   
+
