@@ -12,3 +12,8 @@ Este proyecto es una calculadora que usa Python y una biblioteca en C para reali
    ```sh
    git clone https://github.com/tuusuario/tu-repositorio.git
    cd tu-repositorio
+Ejecutar el programa
+
+   python calculadora.py
+O, si prefieres el .exe:
+Ve a la carpeta "dist/" y ejecuta "calculadora.exe".
